@@ -1,0 +1,20 @@
+[
+    {
+        "date": "06-06-2026",
+        "category": "food",
+        "amount": 250.0,
+        "description": "lunch"
+    },
+    {
+        "date": "06-06-2026",
+        "category": "food",
+        "amount": 300.0,
+        "description": "dinner"
+    },
+    {
+        "date": "07-06-2026",
+        "category": "food",
+        "amount": 180.0,
+        "description": "breakfast"
+    }
+]
